@@ -12,7 +12,7 @@ public class Main {
     DataPopulator dataPopulator = new DataPopulator();
     Map<String, String> corporateDictionary = dataPopulator.getDictionary();
     // Verify the dictionary works
-//    MapPrinter.printMap(corporateDictionary);
+    MapPrinter.printMap(corporateDictionary);
 
     SentenceTranslator translator = new SentenceTranslator();
     String sampleResponse = translator.translateSentence("Kiss my ass");

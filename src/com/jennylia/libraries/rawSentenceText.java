@@ -1,6 +1,6 @@
 package com.jennylia.libraries;
 
-public class sentenceTranslate {
+public class rawSentenceText {
   public static String raw = ""
       + "   No fucking way ......................................... I’m not certain that’s feasible.\n"
       + "    You’ve got to be shitting me ........................... Really.\n"
